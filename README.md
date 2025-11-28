@@ -1,7 +1,5 @@
 # Olá, eu sou o Gabriel do Carmo Felipe! 🤟
 
-![Gabriel's GitHub Banner](https://via.placeholder.com/1200x300/4C6A92/FFFFFF?text=Gabriel+do+Carmo+Felipe+-+Desenvolvimento+de+Sistemas)
-
 ## Sobre Mim
 
 Sou estudante do **1º ano do Ensino Médio e Técnico em Desenvolvimento de Sistemas** na **ETEC Basilides de Godoy**. Estou no começo da minha jornada no mundo da **programação** e estou aprendendo a trabalhar com tecnologias como **Java**, **C#**, **MySQL**, **HTML**, **CSS** e outras.
@@ -34,7 +32,7 @@ Sempre em busca de novos desafios, estou ampliando meu conhecimento e explorando
 
 ## Como Entrar em Contato 📫
 
-- [LinkedIn](https://www.linkedin.com/in/gabrieldocarmofelipe/)  
-- [Instagram](https://www.instagram.com/gabriel.carmof/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldocarmofelipe/)  
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.carmof/)
 
 Sinta-se à vontade para explorar meus repositórios!
