@@ -4,9 +4,9 @@
 
 ## Sobre Mim
 
-Sou estudante do **1º ano do Ensino Médio e Técnico em Desenvolvimento de Sistemas** na **ETEC Basilides de Godoy**. Estou no começo da minha jornada no mundo da **programação** e estou aprendendo a trabalhar com tecnologias como **Java**, **C#**, **SQL**, **HTML**, **CSS** e outras.
+Sou estudante do **1º ano do Ensino Médio e Técnico em Desenvolvimento de Sistemas** na **ETEC Basilides de Godoy**. Estou no começo da minha jornada no mundo da **programação** e estou aprendendo a trabalhar com tecnologias como **Java**, **C#**, **MySQL**, **HTML**, **CSS** e outras.
 
-Sempre em busca de novos desafios, estou ampliando meu conhecimento e construindo projetos de software e web.
+Sempre em busca de novos desafios, estou ampliando meu conhecimento e explorando o mundo do desenvolvimento de software e web.
 
 ## Tecnologias que Eu Uso 🚀
 
@@ -19,21 +19,14 @@ Sempre em busca de novos desafios, estou ampliando meu conhecimento e construind
 
 ### Banco de Dados:
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
-![SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 
 ### Ferramentas de Trabalho:
 
 ![Microsoft Word](https://img.shields.io/badge/-Microsoft_Word-2B579A?style=flat-square&logo=microsoftword)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio)
-
-## Projetos 💻
-
-Aqui estão alguns dos meus projetos em andamento:
-
-- **[Sistema de Controle de Estoque](https://github.com/GabrielDoCarmoFelipe/controle-estoque)**: Um sistema simples de controle de estoque utilizando **C#** e **SQL Server**.
-- **[Site Portfólio](https://github.com/GabrielDoCarmoFelipe/portfolio)**: Meu portfólio pessoal feito com **HTML**, **CSS** e **JavaScript**.
+![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode)
 
 ## Formação Acadêmica 🎓
 
@@ -41,7 +34,7 @@ Aqui estão alguns dos meus projetos em andamento:
 
 ## Como Entrar em Contato 📫
 
-- [LinkedIn](https://www.linkedin.com/home?originalSubdomain=br)  
+- [LinkedIn](https://www.linkedin.com/in/gabrieldocarmofelipe/)  
 - [Instagram](https://www.instagram.com/gabriel.carmof/)
 
 Sinta-se à vontade para explorar meus repositórios!
