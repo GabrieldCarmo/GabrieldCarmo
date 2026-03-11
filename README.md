@@ -28,7 +28,7 @@ Sempre em busca de novos desafios, estou ampliando meu conhecimento e explorando
 
 ## Formação Acadêmica 🎓
 
-- **1º ano do Ensino Médio e Técnico em Desenvolvimento de Sistemas** - **ETEC Basilides de Godoy**
+- **2º ano do Ensino Médio e Técnico em Desenvolvimento de Sistemas** - **ETEC Basilides de Godoy**
 
 ## Como Entrar em Contato 📫
 
