@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou estudante do **1º ano do Ensino Médio e Técnico em Desenvolvimento de Sistemas** na **ETEC Basilides de Godoy**. Estou no começo da minha jornada no mundo da **programação** e estou aprendendo a trabalhar com tecnologias como **Java**, **C#**, **MySQL**, **HTML**, **CSS** e outras.
+Sou estudante do **2º ano do Ensino Médio e Técnico em Desenvolvimento de Sistemas** na **ETEC Basilides de Godoy**. Estou no começo da minha jornada no mundo da **programação** e estou aprendendo a trabalhar com tecnologias como **Java**, **C#**, **MySQL**, **HTML**, **CSS** e outras.
 
 Sempre em busca de novos desafios, estou ampliando meu conhecimento e explorando o mundo do desenvolvimento de software e web.
 
